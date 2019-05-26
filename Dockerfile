@@ -13,7 +13,7 @@ ENV NGINX_VER="${NGINX_VER}" \
     NGINX_VHOST_PRESET="html" \
     NGX_MODSECURITY_VER="1.0.0" \
     MODSECURITY_VER="3.0.3" \
-    OWASP_CRS_VER="3.1.0"
+    OWASP_CRS_VER="3.2.0"
 
 RUN set -ex; \
     \
